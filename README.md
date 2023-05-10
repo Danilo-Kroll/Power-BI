@@ -10,4 +10,4 @@ O objetivo desse dashboard foi coletar dados da cidade de Várzea Paulista de fo
 
 **Projeto 2 - Netflix**<br>
 Com base em dados do Kaggle desenvolvi o dashboard de dados de filmes/séries e ações da Netflix.
-<br><a href="https://lnkd.in/dpGqKrzs](https://app.powerbi.com/view?r=eyJrIjoiNWYyZTBmYzYtNmQxYi00M2YwLTg3NjItNzQ1NGZiYWQ3MWIzIiwidCI6ImM1MWE2OGQ1LTgwNGItNGZhYi05YTJjLTBiNmI2ODU2NmJhOCJ9">Visualizar Dashboard</a>
+<br><a href="[https://lnkd.in/dpGqKrzs](https://app.powerbi.com/view?r=eyJrIjoiNWYyZTBmYzYtNmQxYi00M2YwLTg3NjItNzQ1NGZiYWQ3MWIzIiwidCI6ImM1MWE2OGQ1LTgwNGItNGZhYi05YTJjLTBiNmI2ODU2NmJhOCJ9](https://app.powerbi.com/view?r=eyJrIjoiNWYyZTBmYzYtNmQxYi00M2YwLTg3NjItNzQ1NGZiYWQ3MWIzIiwidCI6ImM1MWE2OGQ1LTgwNGItNGZhYi05YTJjLTBiNmI2ODU2NmJhOCJ9)">Visualizar Dashboard</a>
