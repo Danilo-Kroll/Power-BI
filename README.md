@@ -1,6 +1,6 @@
 # Power-BI
 
-Nesse repositório constam os links de projetos desenvolvidos em Power BI.
+Nesse repositório constam os links de projetos pessoais desenvolvidos em Power BI.
 
 ## Projetos
 
